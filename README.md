@@ -8,4 +8,4 @@ Probavanje i igranje sa "enkripcijama" u Pythonu. Nijedan od "algoritama" nije z
 - Random ekripcija: program sam od sebe generiše neku enkripciju. Što komplikovanija šifra/poruka, kompikovanija enkripcija.
 
 
-<h2>cesar_sifra.py: </h2> U suštini, kombinacija Cezarove šifre i enkripcije. Korisnik unosi poruku, a zatim unosi neki "ključ" ili "key" za enkripciju. Taj ključ ustvari pomjera unaprijed za tu vrijednost. Ako se unese pravilan ključ, ispisat će se pravilna, odnosno ispravna poruka. Ako se ne unese pravilan ključ, ispisat će se neka druga, netačna poruka.
+<h2>cesar_sifra.py: </h2> U suštini, kombinacija Cezarove šifre i enkripcije. Korisnik unosi poruku, a zatim unosi neki "ključ" ili "key" za enkripciju. Taj ključ ustvari pomjera slova unaprijed za tu vrijednost. Ako se unese pravilan ključ, ispisat će se pravilna, odnosno ispravna poruka. Ako se ne unese pravilan ključ, ispisat će se neka druga, netačna poruka.
