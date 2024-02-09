@@ -9,3 +9,4 @@ Probavanje i igranje sa "enkripcijama" u Pythonu. Nijedan od "algoritama" nije z
 
 
 <h2>cesar_sifra.py: </h2> U suštini, kombinacija Cezarove šifre i enkripcije. Korisnik unosi poruku, a zatim unosi neki "ključ" ili "key" za enkripciju. Taj ključ ustvari pomjera slova unaprijed za tu vrijednost. Ako se unese pravilan ključ, ispisat će se pravilna, odnosno ispravna poruka. Ako se ne unese pravilan ključ, ispisat će se neka druga, netačna poruka.
+  <h3>cesar_sifra.py (V2): </h3> Omogućena enkripcija simbola ("()=/ itd) i brojeva. Urađen malo bolji "UI", odnosno program više je user-friendly 🙄 (i dalje je u terminalu...)
